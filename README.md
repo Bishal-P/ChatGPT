@@ -1,2 +1,2 @@
-# ChatGPT
+## ChatGPT
 ChatGPT App 
