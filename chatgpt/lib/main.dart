@@ -2,7 +2,6 @@
 
 import 'dart:async';
 import 'dart:convert' show jsonDecode, jsonEncode;
-
 import 'package:chatgpt/InputField.dart';
 import 'package:chatgpt/splashscreen.dart';
 import 'package:flutter/material.dart';
