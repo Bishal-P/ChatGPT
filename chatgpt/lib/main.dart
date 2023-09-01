@@ -5,8 +5,6 @@ import 'dart:convert' show jsonDecode, jsonEncode;
 
 import 'package:chatgpt/InputField.dart';
 import 'package:chatgpt/splashscreen.dart';
-// import 'package:connectivity/connectivity.dart';
-// import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:lottie/lottie.dart';
