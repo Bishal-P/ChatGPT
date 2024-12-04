@@ -183,7 +183,7 @@ class _MyAppState extends State<MyApp> {
 
   gpt(query) async {
     try {
-      String key = "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";
+      String key = "paste your api key here";
       final respose = await http.post(
           Uri.parse("https://api.openai.com/v1/completions"),
           headers: {
